@@ -1,0 +1,14 @@
+/* navigation1.css */
+.navbar {
+    position: relative;
+    width: 100%;
+    background: black;
+  }
+  
+  .sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: black; /* Optional: ensures visibility during sticky */
+  }
+  

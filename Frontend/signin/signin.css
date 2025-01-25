@@ -1,0 +1,17 @@
+
+.background {
+    position: absolute;
+    width: 722px;
+    height: 753px;
+    top: -26px;
+    left: 558px;
+    gap: 0px;
+    opacity: 0px;
+overflow-x: hidden;    
+overflow-y: hidden;
+    background-image: url("./image (1).png"); /* Adjust the path as needed */
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
+    z-index: -1; /* Sends it behind other content */
+}

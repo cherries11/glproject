@@ -1,0 +1,148 @@
+{
+  "Acceuil": "مرحبًا",
+  "À Propos": "حولنا",
+  "Services": "الخدمات",
+  "Contacte": "اتصل بنا",
+  "Offres": "العروض",
+  "Équipes": "الفرق",
+  "BOOK NOW": "احجز الآن",
+  "Réservez votre beauté en": "احجز جمالك",
+  "un clic": "بنقرة واحدة",
+  "Loyalty":"الولاء",
+  "Des experts en coiffure, soins et massages à votre service, où que": "خبراء في تصفيف الشعر، العناية والعلاج في خدمتك أينما كنت",
+  "vous soyez.": "أينما كنت.",
+  "NOTRE GALERIE": "معرضنا",
+  "À propos de nous": "حولنا",
+  "Bienvenue dans notre salon de beauté de luxe, où chaque détail est conçu pour offrir une expérience de bien-être exceptionnelle. Nos experts passionnés combinent des techniques modernes avec une touche personnalisée pour répondre à toutes vos attentes. Que ce soit pour une coupe de cheveux élégante, un soin visage raffiné ou un moment de relaxation absolue, nous sommes là pour sublimer votre beauté et votre confiance.": "مرحبًا بكم في صالون التجميل الفاخر لدينا، حيث تم تصميم كل تفصيل لتقديم تجربة استثنائية للرفاهية. يجمع خبراؤنا المتحمسون بين التقنيات الحديثة ولمسة مخصصة لتلبية جميع توقعاتكم. سواء كان الأمر يتعلق بقصة شعر أنيقة، أو علاج وجه دقيق، أو لحظة استرخاء تام، نحن هنا لتجميل جمالك وزيادة ثقتك.",
+  "SERVICES": "الخدمات",
+  "Soins esthétiques": "العناية التجميلية",
+  "Sublimez votre beauté avec nos soins visage et corps professionnels.": "عزز جمالك مع خدمات العناية بالوجه والجسم المهنية لدينا.",
+  "VIEW MORE": "عرض المزيد",
+  "Massage": "التدليك",
+  "Détendez-vous avec nos options de massage, disponibles à domicile ou en salon.": "استرخي مع خيارات التدليك المتاحة في المنزل أو في الصالون.",
+  "Coiffure": "تصفيف الشعر",
+  "Réservez une coupe, une couleur ou un brushing avec nos experts.": "احجز قصّة، صبغة، أو تسريحة مع خبرائنا.",
+  "OFFRES EXCLUSIVES": "عروض حصرية",
+  "Soin du visage de luxe": "عناية الوجه الفاخرة",
+  "Profitez de 20% de réduction sur notre soin du visage signature pour une durée limitée.": "استمتع بخصم 20% على علاج الوجه الخاص بنا لفترة محدودة.",
+  "Code Promo": "رمز العرض",
+  "SAVE20": "SAVE20",
+  "Réservez maintenant": "احجز الآن",
+  "Coiffure et Coloration": "تصفيف الشعر واللون",
+  "Profitez de 25% de réduction sur toute prestation de coloration et de coiffure.": "استمتع بخصم 25% على جميع خدمات التلوين والتصفيف.",
+  "SAVE25": "SAVE25",
+  "Forfait Spa Complet": "باقة سبا كاملة",
+  "Détendez-vous avec un forfait spa complet à -30% ! Places limitées disponibles.": "استرخ مع باقة سبا كاملة بخصم 30%! الأماكن محدودة.",
+  "SAVE30": "SAVE30",
+  "PROGRAMME DE POINTS": "برنامج النقاط",
+  "Comment ça marche ?": "كيف يعمل؟",
+  "Gagnez des points à chaque réservation et échangez-les contre des réductions ou des offres spéciales. Plus vous réservez, plus vous économisez !": "احصل على نقاط مع كل حجز وقم بتبادلها للحصول على خصومات أو عروض خاصة. كلما حجزت أكثر، كلما وفرت أكثر!",
+  "Vos Avantages": "مزاياك",
+  "1 point pour chaque 1€ dépensé": "نقطة واحدة لكل يورو يتم إنفاقه",
+  "100 points = 10€ de réduction": "100 نقطة = خصم 10 يورو",
+  "Accès à des offres exclusives": "الوصول إلى العروض الحصرية",
+  "Commencez à Gagner": "ابدأ في الكسب",
+  "Inscrivez-vous et commencez à accumuler des points dès votre prochaine réservation. Vérifiez vos points dans votre profil.": "سجل الآن وابدأ في جمع النقاط مع أول حجز لك. تحقق من نقاطك في ملفك الشخصي.",
+  "Rejoignez Maintenant": "انضم الآن",
+  "teamMembers": [
+    {
+      "name": "أنطوان ليفيفر",
+      "role": "رئيس",
+      "description": "أنطوان هو الرئيس الرؤيوي والديناميكي لشركتنا، مع أكثر من 15 عامًا من الخبرة في مجال القيادة والإدارة. بفضل قدرته على التنبؤ باتجاهات السوق وقيادة فريقه بدقة عالية، تمكن من تحقيق نمو الشركة مع الحفاظ على ثقافة الابتكار والجودة. يعتمد استراتيجيته على الاستماع، مما يساعده على إيجاد حلول مخصصة لتلبية احتياجات كل عميل ودعم نمو الشركة.",
+      "image": "member1"
+    },
+    {
+      "name": "إليزابيث نيومان",
+      "role": "مصففة شعر",
+      "description": "ريناتا هي مصففة شعر موهوبة مع 17 عامًا من الخبرة، متخصصة في تقنيات الصباغة مثل الباليه، والأومبريه، والسومبريه، والهايلايت. تم تدريبها في فيدال ساسون ومعتمدة من لوريال وويلا، وهي معروفة بإبداعها وصبرها وموهبتها الاستثنائية. يمكنك اكتشاف أعمالها على إنستغرام: @renatahairues.",
+      "image": "member2"
+    },
+    {
+      "name": "لوسي لينون",
+      "role": "مصففة شعر",
+      "description": "يوكو هي مصممة ألوان ذات خبرة، تم تدريبها في اليابان ونيويورك. معروفة بكمالها، تستخدم أفضل المنتجات المهنية لضمان نتائج مستدامة. أثناء الاستشارات، تستمع بعناية لتفضيلات عملائها وتضع خطة لون مخصصة لإعلامهم وإراحتهم. إذا كنت تبحث عن خبير في الألوان، فإن يوكو هي الخيار المثالي.",
+      "image": "member3"
+    },
+    {
+      "name": "جينيفر سميث",
+      "role": "مدلكة",
+      "description": "أميلي هي مدلكة محترفة مع أكثر من 15 عامًا من الخبرة، متخصصة في مجموعة واسعة من تقنيات التدليك، مثل التدليك الاسترخائي، والشعري، والعلاجي، بالإضافة إلى أساليب أخرى تهدف إلى تخفيف التوترات العضلية وتعزيز الرفاهية. هي شغوفة بمهنها وتحرص على تقديم تجربة استرخاء كاملة لعملائها، مع تخصيص الوقت للاستماع إليهم وتقديم رعاية عالية الجودة.",
+      "image": "member4"
+    },
+    {
+      "name": "جاك هندريكس",
+      "role": "مدلكة",
+      "description": "لوسي هي خبيرة في التدليك مع أكثر من 10 سنوات من الخبرة في فن الرفاهية الجسدية. تتقن التدليك الاسترخائي والشعري والعلاجي، مما يوفر تجربة مريحة وشفائية. يجمع نهجها الشمولي بين الأساليب التقليدية والحديثة لتهدئة الجسم وتخفيف الآلام العضلية واستعادة التوازن الداخلي. مع لوسي، كل تدليك هو هروب إلى حالة من السكينة التامة.",
+      "image": "member1"
+    },
+    {
+      "name": "كلير دوبوا",
+      "role": "العناية بالوجه والجسم، إزالة الشعر",
+      "description": "كلير هي خبيرة في العناية بالوجه والجسم وإزالة الشعر، مع أكثر من 10 سنوات من الخبرة في مجال التجميل. تقدم خدمات مخصصة تناسب احتياجات كل عميل، باستخدام منتجات عالية الجودة لضمان نتائج مثالية. تتفوق كلير في إزالة الشعر والعناية بالوجه، مقدمة تجربة ممتعة ومريحة. تضمن تقنيتها اللطيفة واهتمامها بالتفاصيل لعملائها أن يشعروا بالراحة والاسترخاء مع الحصول على نتائج دائمة وفعالة.",
+      "image": "member3"
+    },
+    {
+      "name": "إلودي ليفيفر",
+      "role": "العناية بالوجه والجسم، إزالة الشعر",
+      "description": "إلودي متخصصة في العناية بالوجه والجسم وإزالة الشعر، مع أكثر من 8 سنوات من الخبرة. تعتني بكل عميل بنهج لطيف واحترافي، مقدمة خدمات مخصصة لكل نوع بشرة واحتياج. بفضل خبرتها في العناية التجميلية واستخدام منتجات ذات جودة عالية، تضمن إلودي نتائج مرئية مع احترام راحة وحساسية عملائها. كل خدمة هي لحظة استرخاء وتجديد، مثالية لتجميل البشرة ومنح شعور بالرفاهية.",
+      "image": "member4"
+    }
+  ],
+
+  "Popular Services": "الخدمات الشائعة",
+  "avec:": "مع:",
+  "Selected": "محدد",
+  "Select": "حدد",
+  "Search for a service...": "ابحث عن خدمة...",
+  "Select a Service": "اختر خدمة",
+  "LOCATION": "الموقع",
+  "PHONE": "الهاتف",
+  "BEAUTY LOUNGE HOURS": "ساعات عمل صالون التجميل",
+  "Monday": "الاثنين",
+  "Tuesday": "الثلاثاء",
+  "Wednesday": "الأربعاء",
+  "Thursday": "الخميس",
+  "Friday": "الجمعة",
+  "Saturday": "السبت",
+  "Sunday": "الأحد",
+  "First Floor, Next to LETO Cafe, Dubai Hills Mall": "الطابق الأول، بجانب مقهى LETO، دبي هيلز مول",
+  "10:00 am - 10:00 pm": "10:00 صباحًا - 10:00 مساءً",
+    "coiffure": {
+      "subServices": {
+        "Coupe et coiffage": "قص وتصفيف الشعر",
+        "Coloration capillaire": "تلوين الشعر",
+        "Soins capillaires": "عناية بالشعر"
+      }
+    },
+    "massage": {
+      "subServices": {
+        "Massage relaxant": "مساج استرخائي",
+        "Massage tonifiant": "مساج منشط",
+        "Massage thérapeutique": "مساج علاجي"
+      }
+    },
+    "soins": {
+      "subServices": {
+        "Soins du visage": "عناية بالوجه",
+        "Soins du corps": "عناية بالجسم",
+        "Épilation": "إزالة الشعر"
+      }
+    },
+
+    "prices": {
+      "2000DA": "2000 دينار جزائري",
+      "2500DA": "2500 دينار جزائري",
+      "3000DA": "3000 دينار جزائري",
+      "3200DA": "3200 دينار جزائري",
+      "3500DA": "3500 دينار جزائري",
+      "3400DA": "3400 دينار جزائري",
+      "4000DA": "4000 دينار جزائري",
+      "3900DA": "3900 دينار جزائري",
+      "4500DA": "4500 دينار جزائري",
+      "10000DA": "10000 دينار جزائري"
+    },
+   
+      "Historique": "التاريخ"
+    
+  
+}

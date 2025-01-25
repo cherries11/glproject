@@ -1,0 +1,111 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  hr {
+    width: 10%;
+    margin: 1rem auto;
+    border-color: gray;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+   
+  }
+  .swiper-image {
+    width: 100%;
+    height: 100%; /* Ensure images take the full height of the slide */
+    object-fit: cover; /* Ensure images cover the area without stretching */
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  /* Ensure Swiper container takes full height */
+  .swiper {
+    height: 400px; /* Adjust this based on your desired height */
+  }
+  
+  /* Swiper Slide Styling */
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ensure slides take full height */
+    
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  /* Middle slide takes more space */
+  .swiper-slide-active {
+    transform: scale(1.1); /* Scale up the middle slide */
+    opacity: 1;
+  }
+  
+  /* Adjacent slides are slightly smaller */
+  .swiper-slide-next,
+  .swiper-slide-prev {
+    transform: scale(0.9); /* Shrink next and previous slides */
+   
+  }
+  
+  /* Hover effect for the slides */
+  .swiper-slide:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+
+  /* Style for the next and previous buttons */
+.swiper-button-next, 
+.swiper-button-prev {
+  color: black; /* Gold color for luxury vibe */
+  cursor: pointer; /* Change cursor to pointer */
+  transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition on hover */
+  position: absolute;
+  top: 50%;
+  
+  z-index: 10; /* Make sure buttons are above the images */
+}
+.swiper-button-prev {
+  left: 10px; /* Move it to the left */
+}
+
+/* Style for the next button */
+.swiper-button-next {
+  right: 10px; /* Move it to the right */
+}
+/* Hover effect for the navigation arrows */
+.swiper-button-next:hover, 
+.swiper-button-prev:hover {
+  color: black; 
+  transform: scale(1.1); /* Slight scale-up effect on hover */
+}
+
+/* Style for the pagination dots */
+.swiper-pagination-bullet {
+  background-color: grey; /* Semi-transparent white for inactive dots */
+  transition: background-color 0.3s ease; /* Smooth transition for active dots */
+}
+
+/* Style for the active pagination dot */
+.swiper-pagination-bullet-active {
+  background-color: black; /* Gold color for active dot */
+}
+
+/* Style for pagination when hovering over the dots */
+.swiper-pagination-bullet:hover {
+  background-color: black; /* Light gold color on hover */
+}
+.hero{
+  background-image: url("c:\Users\Expert Info\Downloads\0c1e930c-6fb5-40b2-8e88-dc0117fddd76.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}

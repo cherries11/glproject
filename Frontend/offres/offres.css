@@ -1,0 +1,157 @@
+.foot1{
+    margin-bottom: 85%
+  
+  
+  ;}
+
+
+/* General radio button style */
+.custom-radio {
+    -webkit-appearance: none; /* Remove default styling in WebKit browsers */
+    -moz-appearance: none; /* Remove default styling in Firefox */
+    appearance: none; /* Remove default styling in modern browsers */
+    width: 24px; /* Set size */
+    height: 24px; /* Set size */
+    border-radius: 50%; /* Make it circular */
+    border: 1px solid #626466; /* Border color */
+    position: relative; /* For positioning the dot inside */
+    background-color: white; /* Background color of the radio button */
+    cursor: pointer; /* Change the cursor to pointer on hover */
+    transition: background-color 0.2s ease, border-color 0.2s ease; /* Smooth transition */
+  }
+  
+  /* When the radio button is checked */
+  .custom-radio:checked {
+    border-color: #B66E7A; /* Change border color when checked */
+    background-color: #B66E7A; /* Background color when checked */
+  }
+  
+  /* Creating the inner circle of the radio button */
+
+  /* Hover effect for radio button */
+  .custom-radio:hover {
+    border-color: none; /* Change the border color when hovered */
+  }
+  
+  /* Focus effect for accessibility */
+  .custom-radio:focus {
+    outline: none; /* Remove the default outline */
+
+  }
+  .custom-checkbox {
+    -webkit-appearance: none; /* Remove default appearance in WebKit browsers */
+    -moz-appearance: none; /* Remove default appearance in Firefox */
+    appearance: none; /* Remove default appearance in modern browsers */
+    width: 24px; /* Set the width */
+    height: 24px; /* Set the height */
+    border: 1px solid #626466; /* Border color */
+    border-radius: 4px; /* Round the corners for a square checkbox */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: all 0.3s ease; /* Smooth transition for background and border */
+    display: inline-block;
+    position: relative; /* For positioning the checkmark */
+  }
+  
+  /* Checkbox state when checked */
+  .custom-checkbox:checked {
+    background-color:#B66E7A; /* Background color when checked (gold) */
+    border-color: #B66E7A; /* Border color when checked */
+  }
+  
+  /* Add checkmark when checked */
+  .custom-checkbox:checked::after {
+    content: ''; /* Empty content for the pseudo-element */
+    position: absolute;
+    top: 4px; /* Position the checkmark */
+    left: 4px;
+    width: 8px; /* Checkmark size */
+    height: 8px; /* Checkmark size */
+    background-color: white; /* Checkmark color */
+    clip-path: polygon(0% 0%, 100% 100%, 50% 50%); /* Create a checkmark shape */
+  }
+  
+  /* Focus effect (when the checkbox is focused) */
+  .custom-checkbox:focus {
+    outline: none; /* Remove default focus outline */
+    box-shadow: 0 0 0 3px #B66E7A; /* Custom focus ring */
+  }
+  
+  /* Hover effect (when hovering over the checkbox) */
+  .custom-checkbox:hover {
+    border-color: #B66E7A; /* Change the border color on hover */
+    background-color: rgba(255, 204, 0, 0.1); /* Light background color when hovered */
+  }
+
+  /* For the checkbox transition effect */
+.checkbox {
+    transition: transform 0.5s ease; /* Smooth transition for the checkbox */
+  }
+  
+  .checkbox.checked {
+    transform: scale(1.2); /* Scale up the checkbox when it is checked */
+  }
+  
+  .checkbox-container {
+    position: relative;
+  }
+  
+  .checkbox-container .checkbox {
+    transition: transform 0.5s ease;
+  }
+  
+  .checkbox-container .checkbox.checked {
+    transform: scale(1.2); /* Slightly enlarge the checkbox when checked */
+  }
+  .salon{
+    height: 1030px;
+  }
+
+
+  /* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and Main Container */
+body {
+  overflow-x: hidden;
+  font-family: Arial, sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.content-container {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+/* Services Section */
+.services-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.popular-services {
+  flex: 3;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .services-section {
+    flex-direction: column;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+}
